@@ -1,7 +1,7 @@
 # Dataset
 This data set contains 416 liver patient records and 167 non liver patient records.The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups(liver patient or not). This data set contains 441 male patient records and 142 female patient records.
 
-#Attribute
+## Attribute ##
 1. Age Age of the patient
 2. Gender Gender of the patient
 3. TB Total Bilirubin
